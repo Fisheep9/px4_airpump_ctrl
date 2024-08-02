@@ -1,0 +1,5 @@
+<launch>
+	<node pkg="px4_gimbal_ctrl" type="px4_gimbal_ctrl_node" name="gimbal_ctrl" output="screen">
+        <!-- <param name="rate" type="double" value="50"/> -->
+	</node> 
+</launch>
