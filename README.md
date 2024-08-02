@@ -1,4 +1,4 @@
-# PX4 Gimbal Ctrl
+# PX4 AirPump Ctrl
 
 使用mavros mount control像控制云台舵机一样进行气泵控制的一个示例（[参考宁哥的云台控制](https://github.com/Fisheep9/px4_gimbal_ctrl)）： 
 
